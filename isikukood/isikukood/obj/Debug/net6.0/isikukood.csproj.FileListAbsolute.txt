@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\isikukood\isikukood\bin\Debug\net6.0\isikukood.exe
+C:\Users\ADMIN\source\repos\isikukood\isikukood\bin\Debug\net6.0\isikukood.deps.json
+C:\Users\ADMIN\source\repos\isikukood\isikukood\bin\Debug\net6.0\isikukood.runtimeconfig.json
+C:\Users\ADMIN\source\repos\isikukood\isikukood\bin\Debug\net6.0\isikukood.dll
+C:\Users\ADMIN\source\repos\isikukood\isikukood\bin\Debug\net6.0\isikukood.pdb
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.dll
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\refint\isikukood.dll
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.pdb
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\isikukood.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\isikukood\isikukood\obj\Debug\net6.0\ref\isikukood.dll
