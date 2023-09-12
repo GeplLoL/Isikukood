@@ -1,4 +1,5 @@
-﻿using isikukood;
+using isikukood;
+using System.Reflection.Emit;
 using System.Text.RegularExpressions;
 
 public class IdCode
@@ -29,10 +30,12 @@ public class IdCode
         return true;
     }
 
-    private int GetGenderNumber()
+    public int GetGenderNumber()
     {
         return Convert.ToInt32(_idCode.Substring(0, 1));
     }
+    public List<string> isikukodi { get; } = new List<string>();
+    private readonly int _maxAmount;
 
     private bool IsValidGenderNumber()
     {
@@ -142,8 +145,6 @@ public class IdCode
         int year = GetFullYear();
         return new DateOnly(year, month, day);
     }
-    public List<string> isikukodi { get; } = new List<string>();
-    private readonly int _maxAmount;
     public IdCode(int maxAmount)
     {
         _maxAmount = maxAmount;
@@ -162,6 +163,8 @@ public class IdCode
         isikukodi.Remove(fullName);
         return true;
     }
+
+
 }
 
 public class Program
